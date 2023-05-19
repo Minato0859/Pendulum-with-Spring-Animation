@@ -1,7 +1,5 @@
 # Pendulum-with-Spring-Animation
 
-# Pendulum with Spring Animation
-
 This Python script provides a simulation of a two-mass system connected by a spring and set in pendulum motion. The script utilizes `numpy` for numerical operations, `scipy.integrate` to solve the system of equations governing the motion, and `matplotlib.animation` to animate the results.
 
 ## Code Description
